@@ -12,4 +12,5 @@ Note: inspired by [TOP](https://www.theodinproject.com/)
   - Minimal effort is fine, we can work it out
 - Feel free to reach out on telegram as well (CollegeDAO)(https://t.me/collegedao)
 
-## In development
+Visit site at [www.braineater.io](www.braineater.io)
+## BrainEater - In development
